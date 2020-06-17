@@ -1,5 +1,5 @@
 # good-undead-horses
-Finally makes unead horses good.
+Finally makes undead horses good.
 
 Install this mod like any other, profit.
 
